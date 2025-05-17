@@ -1,4 +1,4 @@
 # dummy
 this is my repo  
 <br>
-author : arpit
+author : arpit tiwari
